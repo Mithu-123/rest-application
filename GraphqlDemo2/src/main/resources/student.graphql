@@ -1,0 +1,20 @@
+schema{
+query: Query
+}
+
+
+type Query {
+allStudents: [Student]
+student(studentId: Long):Student
+storeStudent(name: String ,rollNumber: String ,std: String, address: String):Student
+}
+
+
+
+type Student{
+studentId: Long
+name: String
+rollNumber: String
+std: String
+address: String
+}
