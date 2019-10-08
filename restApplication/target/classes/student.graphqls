@@ -1,0 +1,14 @@
+schema{
+query:Query
+}
+
+type Query{
+findStudent : Student
+}
+
+type Student{
+name: string
+rollNumber: string
+std: string
+address: string
+}

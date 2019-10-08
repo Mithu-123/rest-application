@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: RestWebServices
+Implementation-Version: 1.0
+Built-By: mithilesh.kumar
+Implementation-Vendor-Id: com.restservices
+Build-Jdk: 1.8.0_211
+Implementation-URL: http://projects.spring.io/spring-boot/restApplicat
+ ion/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
